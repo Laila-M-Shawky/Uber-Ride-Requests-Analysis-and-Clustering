@@ -77,7 +77,7 @@ A comprehensive end-to-end data science project analyzing real-world Uber ride r
 - `Drop timestamp`: Timestamp when the trip was completed (may be null)
 
 ---
----
+
 ## ⚙️ Installation
 
 ### 1. Requirements
@@ -118,9 +118,6 @@ Run the entire analysis and visualization pipeline with:
 ```bash
 python main.py
 ```
-
----
-
 ---
 
 ## 📽️ Inference Demo
