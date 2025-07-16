@@ -158,7 +158,7 @@ Uber-Trip-Analysis/
 │   ├── data_cleaning_and_preprocessing.py
 │   ├── data_feature_engineering.py
 │   ├── data_visualization.py
-│   ├── clustering.py
+│   ├── location_clustering.py
 │   └── save_transformed_data.py
 │
 ├── main.py                       # Master pipeline to run the entire workflow
