@@ -163,6 +163,8 @@ Uber-Trip-Analysis/
 └── README.md                     # Project documentation
 ```
 
+---
+
 ## 👥 Contributors
 
 -   **Malak Salem**: Data loading, exploration, and reporting key patterns.
