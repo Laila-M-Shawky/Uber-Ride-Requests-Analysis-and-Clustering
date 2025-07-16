@@ -1,4 +1,4 @@
-# 🚕 Uber Ride Data Analysis
+# 🚕 Uber Ride Requests Analysis and Clustering
 
 ![Demo](Uber%20GIF%20by%20Mashable.gif)
 
@@ -170,7 +170,6 @@ Uber-Trip-Analysis/
 -   **Malak Salem**: Data loading, exploration, and reporting key patterns.
 -  **Laila Shawky**: Cleaning and feature engineering (timestamps, nulls, derived fields).
 -  **Jumanah Rushdi**: Visualizations and spatial clustering (K-Means on pickup points).
-
 
 ---
 
