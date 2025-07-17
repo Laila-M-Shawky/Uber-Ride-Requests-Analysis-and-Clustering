@@ -80,7 +80,7 @@ A comprehensive end-to-end data science project analyzing real-world Uber ride r
 
 ## ⚙️ Installation
 
-### 1. Requirements
+### Requirements
 
 To get started, make sure you have **Python 3.10+** installed on your system.  
 Then install all required libraries by running:
