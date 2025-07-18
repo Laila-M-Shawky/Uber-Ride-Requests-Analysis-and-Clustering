@@ -1,9 +1,27 @@
 # 🚕 Uber Ride Requests Analysis and Clustering
 
-![Demo](Uber%20GIF%20by%20Mashable.gif)
+<p align="center">
+  <img src="Uber%20GIF%20by%20Mashable.gif" width="400" />
+</p>
 
 - This project analyzes Uber ride request data to uncover demand patterns and driver behavior using Python.
 - It includes cleaning, feature engineering, visualizations, and clustering of pickup locations with K-Means.
+
+---
+
+## 📚 Table of Contents
+
+- [📌 Description](#-description)
+- [🔄 Project Workflow](#-project-workflow)
+- [💡 Key Insights](#-key-insights)
+- [🛠️ Recommendations](#-recommendations)
+- [🗂️ Dataset](#️-dataset)
+- [⚙️ Installation](#️-installation)
+- [🚀 Run the Full Pipeline](#-run-the-full-pipeline)
+- [📽️ Inference Demo](#️-inference-demo)
+- [📁 Project Structure](#-project-structure)
+- [👥 Contributors](#-contributors)
+- [📝 License](#-license)
 
 ---
 
