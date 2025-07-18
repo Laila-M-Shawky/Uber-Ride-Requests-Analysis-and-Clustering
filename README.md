@@ -11,17 +11,17 @@
 
 ## 📚 Table of Contents
 
-- [📌 Description](#description)
-- [🔄 Project Workflow](#project-workflow)
-- [💡 Key Insights](#key-insights)
-- [🛠️ Recommendations](#recommendations)
-- [🗂️ Dataset](#dataset)
-- [⚙️ Installation](#installation)
-- [🚀 Run the Full Pipeline](#run-the-full-pipeline)
-- [📽️ Inference Demo](#inference-demo)
-- [📁 Project Structure](#project-structure)
-- [👥 Contributors](#contributors)
-- [📝 License](#license)
+- [📌 Description](#-description)
+- [🔄 Project Workflow](#-project-workflow)
+- [💡 Key Insights](#-key-insights)
+- [🛠️ Recommendations](#-recommendations)
+- [🗂️ Dataset](#-dataset)
+- [⚙️ Installation](#-installation)
+- [🚀 Run the Full Pipeline](#-run-the-full-pipeline)
+- [📽️ Inference Demo](#-inference-demo)
+- [📁 Project Structure](#-project-structure)
+- [👥 Contributors](#-contributors)
+- [📝 License](#-license)
 
 ---
 
